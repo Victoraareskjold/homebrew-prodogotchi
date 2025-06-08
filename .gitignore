@@ -39,3 +39,7 @@ pip-wheel-metadata/
 
 # Homebrew tap-repoer har sin egen struktur, ikke legg det her
 homebrew-*/
+
+updateguide.md
+
+data.yaml
