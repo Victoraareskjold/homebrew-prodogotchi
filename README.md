@@ -1,1 +1,3 @@
 # prodogotchi
+
+brew install prodogotchi
