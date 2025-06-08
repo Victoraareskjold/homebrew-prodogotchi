@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installerte distribusjoner
+*.egg
+*.egg-info/
+dist/
+build/
+lib/
+*.manifest
+*.spec
+
+# Shiv-bygget CLI
+prodogotchi
+
+# pipenv / poetry / venv
+.venv/
+venv/
+env/
+ENV/
+.pip/
+pip-wheel-metadata/
+
+# Pytest / coverage / mypy etc.
+.coverage
+*.cover
+*.log
+*.mypy_cache/
+*.pytest_cache/
+
+# VSCode / IDE config
+.vscode/
+.idea/
+
+# macOS systemfiler
+.DS_Store
+
+# Homebrew tap-repoer har sin egen struktur, ikke legg det her
+homebrew-*/
